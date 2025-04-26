@@ -24,6 +24,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.compute_factorial.executor": "Run",
     "Python.even _odd_checker.executor": "Run",
     "Python.sum_list.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
